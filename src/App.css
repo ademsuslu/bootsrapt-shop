@@ -1,0 +1,35 @@
+.navbar .collapse button:hover {
+    background-color: black;
+    color: aliceblue
+}
+
+
+.headers {
+    width: 100%;
+    aspect-ratio: 1 / 0.2 !important;
+}
+
+
+.container .row .col .card button:hover {
+    background-color: black;
+    color: aliceblue
+}
+
+.footer {
+    width: 100%;
+    aspect-ratio: 1 / 0.1 !important;
+}
+
+.sale {
+    margin: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
